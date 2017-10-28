@@ -5,7 +5,7 @@ $ brew tap cmshubio/cmshub
 $ brew cask install cmshub
 ```
 
-Update *cmshub* cli:
+Update **cmshub** cli:
 
 ```
 $ brew update
