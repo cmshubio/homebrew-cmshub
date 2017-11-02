@@ -1,0 +1,11 @@
+cask 'cmshub' do
+  version '{{.Env.CMSHUB_VERSION}}'
+
+  sha256 '{{.Env.CMSHUB_SHA256}}'
+
+  url "https://github.com/cmshubio/homebrew-cmshub/raw/master/cmshub"
+  name 'CmsHub'
+  homepage 'http://cmshub.io'
+
+  binary "cmshub"
+end
