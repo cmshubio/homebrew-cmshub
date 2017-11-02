@@ -1,7 +1,7 @@
 cask 'cmshub' do
-  version '0.1.0-rc1'
+  version '0.1.0-rc2'
 
-  sha256 '90db5746fba5e25c788de614b720a4e43bbed5f219a44fe375c972043f584f79'
+  sha256 '20e348f38522957093520e7a9d2beb6d47b4790fb804ee8ef04e8a6743a3b2e0'
 
   url "https://github.com/cmshubio/homebrew-cmshub/raw/master/cmshub"
   name 'CmsHub'
